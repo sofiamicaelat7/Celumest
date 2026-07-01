@@ -1,0 +1,90 @@
+[
+    {
+        "tipo": "Telefono",
+        "marca": "TCL",
+        "modelo": "805",
+        "color": "Negro",
+        "precio": 230000.0,
+        "cantidad": 18,
+        "vendible": true,
+        "memoria": "256 GB",
+        "ram": "8 GB"
+    },
+    {
+        "tipo": "Telefono",
+        "marca": "Motorola",
+        "modelo": "G84",
+        "color": "Blanco",
+        "precio": 400000.0,
+        "cantidad": 0,
+        "vendible": true,
+        "memoria": "256 GB",
+        "ram": "6 GB"
+    },
+    {
+        "tipo": "Telefono",
+        "marca": "Apple",
+        "modelo": "17 pro",
+        "color": "Dorado",
+        "precio": 1000000.0,
+        "cantidad": 7,
+        "vendible": true,
+        "memoria": "64 GB",
+        "ram": "8 GB"
+    },
+    {
+        "tipo": "Telefono",
+        "marca": "Motorola",
+        "modelo": "E14",
+        "color": "Negro",
+        "precio": 300000.0,
+        "cantidad": 10,
+        "vendible": true,
+        "memoria": "64 GB",
+        "ram": "4 GB"
+    },
+    {
+        "tipo": "Telefono",
+        "marca": "Motorola",
+        "modelo": "G84",
+        "color": "Blanco",
+        "precio": 500000.0,
+        "cantidad": 10,
+        "vendible": true,
+        "memoria": "128 GB",
+        "ram": "6 GB"
+    },
+    {
+        "tipo": "Telefono",
+        "marca": "Xiaomi",
+        "modelo": "Redmi Note 13",
+        "color": "Blanco",
+        "precio": 500000.0,
+        "cantidad": 10,
+        "vendible": true,
+        "memoria": "128 GB",
+        "ram": "6 GB"
+    },
+    {
+        "tipo": "Telefono",
+        "marca": "Xiaomi",
+        "modelo": "Redmi Note 13",
+        "color": "Azul",
+        "precio": 500000.0,
+        "cantidad": 5,
+        "vendible": true,
+        "memoria": "256 GB",
+        "ram": "6 GB"
+    },
+    {
+        "tipo": "Telefono",
+        "marca": "Motorola",
+        "modelo": "E14",
+        "color": "Azul",
+        "precio": 250000.0,
+        "cantidad": 10,
+        "vendible": true,
+        "memoria": "128 GB",
+        "ram": "6 GB"
+    }
+]

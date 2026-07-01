@@ -1,0 +1,47 @@
+{
+    "marcas": [
+        "Samsung",
+        "Motorola",
+        "Xiaomi",
+        "TCL",
+        "Apple",
+        "lg"
+    ],
+    "modelos": {
+        "Samsung": [
+            "A55",
+            "A35"
+        ],
+        "Motorola": [
+            "G84",
+            "E14"
+        ],
+        "Xiaomi": [
+            "Redmi Note 13"
+        ],
+        "TCL": [
+            "805"
+        ],
+        "Apple": [
+            "17 pro",
+            "16 pro"
+        ],
+        "lg": []
+    },
+    "colores": [
+        "Negro",
+        "Blanco",
+        "Azul",
+        "Dorado"
+    ],
+    "memorias": [
+        "64 GB",
+        "128 GB",
+        "256 GB"
+    ],
+    "rams": [
+        "4 GB",
+        "6 GB",
+        "8 GB"
+    ]
+}
